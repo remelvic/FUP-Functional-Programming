@@ -1,0 +1,4 @@
+- hw1 -> ASCII ART in Lisp
+- hw2 -> Interpreter of SVGen
+- hw3 -> Normal-order Evaluator of λ-terms
+- hw4 -> Parser of λ-programs
